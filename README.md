@@ -27,3 +27,10 @@ bindings automáticos que provee gir.
 
 Se puede ver el fichero xml que se usa para el binding de gir en:
 * /usr/share/gir-1.0/Pycon-0.1.gir
+
+## Enlaces de interés:
+
+ * https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html
+ * https://wiki.gnome.org/Projects/PyGObject/Threading
+ * https://developer.gnome.org/gtk3/unstable/index.html
+ * https://developer.gnome.org/
