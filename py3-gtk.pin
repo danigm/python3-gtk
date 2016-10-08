@@ -1,0 +1,63 @@
+#!/usr/bin/env pinpoint
+
+[slide-bg.png]
+[text-align=center]
+[shading-opacity=0,000000]
+[duration=15]
+--
+Aplicaciones de escritorio
+con python3 y Gtk+
+
+<span font='40'>
+danigm
+http://danigm.net
+danigm@wadobo.com
+</span>
+
+--
+¿Qué es Gtk+?
+
+--
+Aplicación básica de ejemplo con python3
+
+-- [snapshots/app-01.png]
+
+--
+Main loop, eventos y señales
+
+-- [text-color=red][snapshots/app-02.png]
+Eventos
+
+-- [text-color=red][snapshots/app-03.png]
+Hilos
+
+--
+Contenedores
+
+-- [text-color=red][snapshots/app-04.png]
+Box
+
+-- [text-color=red][snapshots/app-05.png]
+Grid
+
+--
+Glade & GtkBuilder
+-- [text-color=red][snapshots/app-06-1.png]
+Glade
+
+-- [text-color=red][snapshots/app-06-2.png]
+GtkBuilder
+
+--
+Gobject-Introspection
+
+-- [text-color=red][snapshots/gir.png]
+GIR
+
+--
+Más info:
+
+ * https://developer.gnome.org/
+ * https://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html
+ * https://wiki.gnome.org/Projects/PyGObject/Threading
+ * https://developer.gnome.org/gtk3/unstable/index.html
